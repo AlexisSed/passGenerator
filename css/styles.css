@@ -1,0 +1,12 @@
+body{
+    background: #000;
+}
+
+.colA{
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.passDiv{
+    border-radius: 50px;
+}
